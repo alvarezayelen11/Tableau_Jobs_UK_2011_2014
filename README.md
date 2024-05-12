@@ -23,7 +23,7 @@ El dataset incluye:
 
 ## Visualización en Tableau Public
 
-El trabajo se encuentra publicado en mi perfil de TABLEAU PUBLIC: [Ayelén Alvarez](#link-a-tu-perfil).
+El trabajo se encuentra publicado en mi perfil de TABLEAU PUBLIC: [Ayelén Alvarez](https://public.tableau.com/app/profile/ayelen.alvarez1540/vizzes).
 
 
 ## Authors
