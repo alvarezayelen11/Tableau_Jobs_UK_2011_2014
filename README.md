@@ -25,6 +25,21 @@ El dataset incluye:
 
 El trabajo se encuentra publicado en mi perfil de TABLEAU PUBLIC: [Ayelén Alvarez](https://public.tableau.com/app/profile/ayelen.alvarez1540/vizzes).
 
+- Identificamos los sectores que han tenido pérdida de empleo en 2014 en relación a 2011:
+
+![Image_Variation](https://github.com/alvarezayelen11/Tableau_Jobs_UK_2011_2014/blob/main/images/Image_Variation.png)
+
+- De los sectores que perdieron empleos, identificamos los sub-sectores que registraron una caída de más de 5 puntos porcentuales: 
+
+![Image_Declining](https://github.com/alvarezayelen11/Tableau_Jobs_UK_2011_2014/blob/main/images/Image_Declining.png)
+
+- Analizamos la variación de empleo por ciudad: 
+
+![Image_Cities_Bars](https://github.com/alvarezayelen11/Tableau_Jobs_UK_2011_2014/blob/main/images/Image_Cities_Bars.png)
+
+- El mapa interactivo nos permite iterar según el filtro 2011 o 2014, mostrándonos la cantidad de puestos de trabajo en cada ciudad para el año seleccionado:
+
+![Image_Cities_Map](https://github.com/alvarezayelen11/Tableau_Jobs_UK_2011_2014/blob/main/images/Image_Cities_Map.png)
 
 ## Authors
 
